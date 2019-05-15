@@ -1,3 +1,6 @@
-# Elite: Dangerous Tips (TEST HEADER)
+# Elite: Dangerous Tips
 
-### This is a placeholder
+## Basic Important Tips
+
+#### [New Commander Starter Pack](https://imgur.com/a/i7KFV) - Everyone should have this bookmarked, it's not just for new commanders
+
