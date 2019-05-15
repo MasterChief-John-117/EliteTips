@@ -1,7 +1,4 @@
----
-layout: post
-title: Some Ship Builds
----
+# Some Random Ship Builds
 
 https://s.orbis.zone/1j5o - Starter Eagle, ‘cause the sidewinder sucks ass, cheapest you’re going to reasonably get
 
