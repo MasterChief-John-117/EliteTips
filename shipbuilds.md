@@ -1,3 +1,8 @@
+---
+layout: post
+title: Some Ship Builds
+---
+
 https://s.orbis.zone/1j5o - Starter Eagle, ‘cause the sidewinder sucks ass, cheapest you’re going to reasonably get
 
 https://s.orbis.zone/1jd_ - Starter Cobra mk3
