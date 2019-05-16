@@ -27,13 +27,3 @@ When approaching a planet, maintain 7 seconds until gravity well and then around
 >You have to be under 10km/s to enter Glide
 >You can boost in glide to perform sharp turns/corkscrews, but may black-out as a result
 >You can't glide steeper than 60°
-
-### WIP Ship Builds
-
-[Starter Eagle, ‘cause the sidewinder sucks ass, cheapest you’re going to reasonably get](https://s.orbis.zone/1j5o)
-
-[Starter Cobra mk3](https://s.orbis.zone/1jd_)
-
-[Really solid exploration build requiring only Felicity Farseer and optionally the FSD booster unlocked. AspX 65Ly](https://s.orbis.zone/1mrz)
-
-[General use Combat Chieftain build](https://s.orbis.zone/2yny)
