@@ -6,15 +6,11 @@ Engineering Materials, commonly called mats, are used for engineering, synthesis
 
 Materials don't take up space in your cargo hold. They exist in their own space without mass, so pick them up whenever you can. Once again, [inara](https://inara.cz) is super useful for knowing what mats you need and where/how to find them.
 
-G1 mats = 300
-
-G2 mats = 250
-
-G3 mats = 200
-
-G4 mats = 150
-
-G5 mats = 100
+> G1 mats = 300  
+> G2 mats = 250  
+> G3 mats = 200  
+> G4 mats = 150  
+> G5 mats = 100  
 
 ### Material Farming
 
