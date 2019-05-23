@@ -3,6 +3,31 @@
 
 @import "{{ site.theme }}";
 
-* {
-    font-family: 'Montserrat';
+body {
+	font-family: 'Montserrat'
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Montserrat'
+}
+
+h4,
+h5,
+h6 {
+	font-family: 'Montserrat'
+}
+
+code,
+pre {
+	font-family: 'Montserrat'
+}
+
+th {
+	font-family: 'Montserrat'
+}
+
+h1.header {
+	font-family: 'Montserrat'
 }
