@@ -1,26 +1,27 @@
-### Useful Links
+# Useful Links
 
+[Engineers, Their Blueprints, and Who Unlocks Who](https://inara.cz/galaxy-engineers/)
 
-[Inara, Like facebook, but in space](https://inara.cz/)
+[Where to Find Material Traders](https://inara.cz/galaxy-nearest/25/)
 
-[Engineers, their blueprints, and who unlocks who.](https://inara.cz/galaxy-engineers/)
+[Database Used to Find Anything](https://eddb.io/)
 
-[Where to find Material Traders](https://inara.cz/galaxy-nearest/25/)
+[Community Driven Star Map](https://www.edsm.net/)
 
-[Database used to find out where needles are in haystacks](https://eddb.io/)
+[Spansh Neutron Plotter and Road to Riches](https://www.spansh.co.uk/)
 
-[Community driven star map](https://www.edsm.net/en_GB)
+[Coriolis Ship Builder](https://coriolis.io/) 
 
-[Coriolis, aka Need for Speed: Underground 3: Space Wars](https://coriolis.io/) 
+[Guide to Surface/High G Landings](https://www.reddit.com/r/EliteDangerous/comments/ag3pbp/with_dw2_starting_and_cmdrs_visiting_the_view_in/)
 
-[Guide to Surface/High G landings](https://www.reddit.com/r/EliteDangerous/comments/ag3pbp/with_dw2_starting_and_cmdrs_visiting_the_view_in/)
+[Road of high value worlds inside the bubble, good for starter cash and levelling exploration for Felicity Farseer](https://www.alpha-orbital.com/pathfinder)
 
-[Road of high value worlds inside the bubble, good for starter cash and levelling exploration for Felicity Farseer, the engineer. aka grandma](https://www.alpha-orbital.com/pathfinder)
+[EDProfiler, For Graphical Tweaks and HUD Color Changing](http://www.drkaii.com/tools/edprofiler/)
 
-[Basic graphical tweaks](https://www.alpha-orbital.com/news/graphics-tweaks-and-ui-change-guide)
+[Simple Guardian Tech Guide](https://www.reddit.com/r/EliteDangerous/comments/8uxkma/simple_guardian_guide_weapons_and_blueprints/)
 
-[If the orange hud grinds your gears.](http://arkku.com/elite/hud_editor/)
+### Some of my Favorite YouTubers
 
-[EDProfiler, it does the above 2 links, but better.](http://www.drkaii.com/tools/edprofiler/)
+[CMDR Exigeous](https://www.youtube.com/channel/UC0Rwxz4318EEQGHz_z58nVA)
 
-[Guardian tech guide](https://www.reddit.com/r/EliteDangerous/comments/8uxkma/simple_guardian_guide_weapons_and_blueprints/)
+[Down to Earth Astronomy](https://www.youtube.com/channel/UCg3QI9rHzPgvR7KTKSCtPHg)
