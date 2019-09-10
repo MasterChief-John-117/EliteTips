@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/mastrchefrocks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://elite.tips
+  * I am mastrchefrocks (https://keybase.io/mastrchefrocks) on keybase.
+  * I have a public key with fingerprint 80D6 F995 3A63 2FD4 CF1E  7226 A408 50ED 56BF 7781
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205dca8649fef06514f807f1930be48421aa43ba29978789caff66b603349c090c0a",
+      "fingerprint": "80d6f9953a632fd4cf1e7226a40850ed56bf7781",
+      "host": "keybase.io",
+      "key_id": "a40850ed56bf7781",
+      "kid": "01012464a2181075aca9db2c460d694d644cffb58436908c658068c97f2ae89c62bd0a",
+      "uid": "6a8ac325f14fc6c3dce2280cdbd28019",
+      "username": "mastrchefrocks"
+    },
+    "service": {
+      "hostname": "elite.tips",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568137387,
+  "expire_in": 157680000,
+  "prev": "1488f30e131fe43d6ba470c8a329bd3bff53c24e2591b2645ad23d088d7b98fb",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJtUBVVGL58XEImRVBJKBHXpnC8Q7tnd8+evZUx+TEaXExxcDToztmz
+Z2G9ePd67/IlwXizEBMakGrAUVQGYxQ1mCFMwJRMKiM1bfxiTPuBM6bVUGI6DNhe
+Rv91/rxz3vM8z/s875xvp0bYYsJao9/+I+dkSTDsx/7dRba8klvt5YxiqGWMs5zx
+0MlCC1UaMN0eXWWcDMsBVlQJRlCQNaqxUOQEDbGSxsk8q1ABCYDDWOAVDGRZQhKS
+CdY0CBXI8rwgE1ZmCYsZB6Pp3nzq9/l1r2nJIlaFmiyLPIY80FSBaByVAIBYYJHI
+UlWEiiZJiLOIBUYgxLDMKThA03TD6lkX96S9/8E/9W05F6CAAYc4VhIxwbKqACJA
+a7IsqFCwZmqKiAQeyiwiUEQsRESWNICpFQICRZ30XTQpBzHChAeiZqUnkPAqoQAg
+lqiKahVODgED1O/FG6mF3ogDpp8UUM1vEE+AqXAw1luxTmhovaE8T3C0UDdpmqn7
+Ahbf5zdMgxiFVr/ANH0BZ4hnlvlCwBKquJ9IuBXdq1q7tBjF1B/QDS/j5CwkMfWQ
+JidCxPESjyQHQ0t9up+69RBClCBirROaQ4stSU5ASONZyvGcRgVehQoWJJYgzANZ
+UXlF00SeAIECUeYUAAURq4BXWYRUSZGRpjChUJu8BuMUkOUT51uaAT3fi80iP2Uq
+vunPjbSFxdii7OGhT2aLmTL96dfLb46dmJd7bzQ87td9+68cbMor3JudaYug8cs8
+fzraHq+ZaWuMBmuOFth730h6/3ZC1ktb1zQHDW7s6C+z6w/3DPpJ59L2U9sq35rX
+u/rGjt64k9U/JTU23dzUL0i/nz+8oKavr74vKSP3dV/L0JniYMtzvavXngufWPDZ
+2uljkQ2dK9LtvwVvpGUf6PJOvdufbJuRrgx3X3c83+kom3tr6epZ/9qCHXWpTdez
+m1svvWhMW5+4qmL7wyWvtWYMopvzPYtWVGWOnfaPDperTOpHB9rjk+uPLclo6ZC6
+3xn4/Fz6VvJz1tfVeV/N7rob7ndmBN0JF3dXd252XZrV7RxPXJn6qPzOyKyZQ5Ky
+c8MXMc/G55iHmGUDLeDajQ+GMkkXqLzavf+6diQFXK7FOSmJfbXZba0jMw+lXDGW
+jU/fWZp4f91i5k1yG5ZeLKnx7Fk3Mse+47g59+yRfxrvDV4bdsVFP+6vd5l7FmbO
+8eBVp2oqdoGJ04vhBX7ok/kbmh8s6l1vVgf3NTTUvhCVBCqrLnzZGXbw3ail9cbf
+3ye7fnjv0+NbLv01Kg6cWK+WuTLxZmGLPSEL1tBNcXtdPQvv7IpMXX5CzO5xJ534
+bopw5uOrAVvlQWda4fIPYVUdd6YqtvbVV56xP+iOX9nRN/6o+OXuuLZtWkXsxGVx
+jK07/3DGWWRWDU1rP1ZyqiGi7v5/HBm4eQ==
+=Md6U
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mastrchefrocks
+
+==================================================================
